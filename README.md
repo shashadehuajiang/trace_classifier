@@ -14,12 +14,13 @@ pip install -r requirements.txt
 
 ## Quick Start
 
-* code      list the source codes
-* dataset   list the datasets
+* code:      
+  list the source codes
+* dataset:
+  list the datasets
 
 ```
 cd code
-
 python3 main.py
 ```
 
@@ -41,6 +42,6 @@ This repository is released under the Apache 2.0 license as found in the [LICENS
 
 
 ## Acknowledgement
-Thanks for the implementation of [pytorch_warmup](https://github.com/Tony-Y/pytorch_warmup).
+Thanks for Tony-Y's implementation of [pytorch_warmup](https://github.com/Tony-Y/pytorch_warmup).
 
 
