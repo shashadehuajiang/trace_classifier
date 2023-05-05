@@ -1,0 +1,7 @@
+hilbertcurve==2.0.5
+matplotlib==3.5.3
+numpy==1.21.6
+Pillow==9.5.0
+scikit_learn==1.2.2
+scipy==1.9.1
+torch==1.12.1
