@@ -45,3 +45,4 @@ sample = [[flow1, flow2, flow3, ..., flow n], label]
 
 flow1 = [[packet vector1, packet vector2, packet vector3, ...,packet vector n]]
 
+Make sure that all the packet vectors have the same dimensions.
