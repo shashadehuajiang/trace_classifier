@@ -2,6 +2,7 @@ import random
 import json
 
 # These vectors are packet vectors.
+# vector = [packet time, packet size * direction]
 vector1 = [0,1]
 vector2 = [1,1]
 vector3 = [2,1]
