@@ -6,31 +6,19 @@ It is a small tool to help you build dataset .json file from the pcap files.
 
 The pcap dataset need to be organized like the following structure:
 
-- pcaps
-
--- Label A
-
-  ---1.pcap
-
-  ---2.pcap
-
-  ---3.pcap
-
--- Label B
-
-  ---1.pcap
-
-  ---2.pcap
-
-  ---3.pcap
-
--- Label C
-
-  ---1.pcap
-
-  ---2.pcap
-  
-  ---3.pcap
+* **pcaps** 
+  * **Label A** 
+    > **1.pcap**  
+    > **2.pcap**  
+    > **3.pcap**  
+  * **Label B** 
+    > **1.pcap**  
+    > **2.pcap**  
+    > **3.pcap**  
+  * **Label C** 
+    > **1.pcap**  
+    > **2.pcap**  
+    > **3.pcap**  
 
 
 ## RUN
