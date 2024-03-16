@@ -603,7 +603,7 @@ class Net(nn.Module):
                 percentage = i_v/len(X_new[i_f])
                 X_new[i_f][i_v] = np.r_[X_new[i_f][i_v],percentage]
 
-        return X
+        return X_new
 
     
     def rand_seq_keep_list_add(self,list1,list2):
